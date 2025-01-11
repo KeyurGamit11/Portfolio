@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import logo from "../assets/Key.png"
+import logo from "../assets/key.png"
 import {FaLinkedin} from "react-icons/fa"
 import {FaGithub} from "react-icons/fa"
 import {FaInstagram ,FaBars , FaTimes} from "react-icons/fa"
