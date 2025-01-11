@@ -1,6 +1,6 @@
-import project1 from "../assets/projects/project1.jpg";
-import project2 from "../assets/projects/project2.jpg";
-import project3 from "../assets/projects/project3.jpg"
+import project1 from "../assets/projects/Project1.jpg";
+import project2 from "../assets/projects/Project2.jpg";
+import project3 from "../assets/projects/Project3.jpg"
 
 
 export const HERO_CONTENT = `Competitive Programmer & Full-Stack Web Developer passionate about solving complex problems and crafting efficient, user-friendly applications. Proficient in competitive programming with C++ and skilled in building dynamic web solutions using React, Tailwind CSS, and Node.js.`;
